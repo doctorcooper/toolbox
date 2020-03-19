@@ -71,7 +71,7 @@ vapor run serve -H [ip] -P [port]
 7.  If you have no errors - on localhost or your server you will see "It works!"
 
 <p align="center">
-    <a href="https://docs.vapor.codes/3.0/">
+    <a href="https://docs.vapor.codes/4.0/">
         <img src="http://img.shields.io/badge/read_the-docs-2196f3.svg" alt="Documentation">
     </a>
     <a href="https://discord.gg/vapor">
@@ -84,6 +84,6 @@ vapor run serve -H [ip] -P [port]
         <img src="https://circleci.com/gh/vapor/toolbox.svg?style=shield" alt="Continuous Integration">
     </a>
     <a href="https://swift.org">
-        <img src="http://img.shields.io/badge/swift-4.1-brightgreen.svg" alt="Swift 4.1">
+        <img src="http://img.shields.io/badge/swift-5.2-brightgreen.svg" alt="Swift 5.2">
     </a>
 </center>
