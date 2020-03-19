@@ -6,16 +6,16 @@
         "repositoryURL": "https://github.com/vapor/console-kit.git",
         "state": {
           "branch": "master",
-          "revision": "535874e4654b17cebb422b9e17353e85d421a118",
+          "revision": "de99d83c9f3c298371002729cc0601e4b5d9e0c9",
           "version": null
         }
       },
       {
-        "package": "Mustache",
+        "package": "mustache",
         "repositoryURL": "https://github.com/tanner0101/mustache.git",
         "state": {
           "branch": "master",
-          "revision": "2169b3a2ba3add4957faaa1bdaa0b7b1e0013b08",
+          "revision": "94104a84964fabb9c4b2dfb792ea6e655e79a0bf",
           "version": null
         }
       },
@@ -33,7 +33,7 @@
         "repositoryURL": "https://github.com/apple/swift-nio.git",
         "state": {
           "branch": "master",
-          "revision": "ea5a64978d944567498533a63eb44bf965ba3d45",
+          "revision": "648a6712ff8a62f5c85274f7b8e9df43ba8c1058",
           "version": null
         }
       },
