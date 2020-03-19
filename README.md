@@ -1,4 +1,4 @@
-# Vapor Toolbox
+# Vapor Toolbox 4.0 on Ubuntu 18.04 and swift 5.2
 
 1. Install packages from apt: git clang libcurl3 libpython2.7 libpython2.7-dev curl zlib1g-dev
 
