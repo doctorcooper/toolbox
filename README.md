@@ -56,7 +56,7 @@ cd ..
 
 vapor new template - from vapor repo
 
-git clone https://github.com/doctorcooper/visit.git - my repo
+git clone https://github.com/doctorcooper/vapor-base-template.git - my repo
 
 6.1. Move to template directory and run "vapor build"
 
