@@ -1,23 +1,23 @@
-# Vapor Toolbox 4.0 on Ubuntu 18.04 and swift 5.2
+# Vapor Toolbox 4.5.1 on Ubuntu 18.04 and swift 5.2
 
-- Install packages from apt: git clang libcurl3 libpython2.7 libpython2.7-dev curl zlib1g-dev
+- Install packages from apt: git clang libcurl4 libpython2.7 libpython2.7-dev curl zlib1g-dev
 ```
-sudo apt-get install git clang libcurl3 libpython2.7 libpython2.7-dev curl zlib1g-dev
+sudo apt-get install git clang libcurl4 libpython2.7 libpython2.7-dev curl zlib1g-dev
 ```
 - Install swift from oficial site:
 https://swift.org/download/
 
 - Download swift 5.2 archive:
 ```
-wget https://swift.org/builds/swift-5.2-branch/ubuntu1804/swift-5.2-DEVELOPMENT-SNAPSHOT-2020-03-18-a/swift-5.2-DEVELOPMENT-SNAPSHOT-2020-03-18-a-ubuntu18.04.tar.gz
+wget https://swift.org/builds/swift-5.2.3-release/ubuntu1804/swift-5.2.3-RELEASE/swift-5.2.3-RELEASE-ubuntu18.04.tar.gz
 ```
 - Extract downloaded archive:
 ```
-tar xzf swift-5.2-DEVELOPMENT-SNAPSHOT-2020-03-18-a-ubuntu18.04.tar.gz 
+tar xzf swift-5.2.3-RELEASE-ubuntu18.04.tar.gz
 ```
 - Move extracted binaries to /usr/share/swift:
 ```
-sudo mv swift-5.2-DEVELOPMENT-SNAPSHOT-2020-03-18-a-ubuntu18.04 /usr/share/swift
+sudo mv swift-5.2.3-RELEASE-ubuntu18.04 /usr/share/swift
 ```
 - Add variable eviropment to $PATH:
 ```
@@ -62,7 +62,7 @@ git clone https://github.com/doctorcooper/vapor-base-template.git
 ```
 - Move to template directory and run "vapor build"
 ```
-cd template
+cd vapor-base-template
 vapor build
 ```
 - If build was success, try vapor run serve. 
